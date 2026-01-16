@@ -1,0 +1,5 @@
+[15:35:46.808] [MASTER] STARTING A NEW SIMULATION
+[15:35:46.809] [MASTER] [INFO] Program is starting with pid 7296
+[15:35:46.809] [MASTER] [INFO] Open a file to store the PID
+[15:35:46.811] [MASTER] [INFO] Program Init MultiDrone launched
+[15:37:08.744] [MASTER] [INFO] Finish cleanly

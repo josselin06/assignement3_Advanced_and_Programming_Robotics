@@ -1,0 +1,8 @@
+IP adress of the server = 130.251.13.105
+communication port = 5001
+Mode = 2
+----Mode-meaning----
+1 -> solo Mode
+2 -> multiplayer mode : Drone
+3 -> multiplayer mode : Obstacle
+--------------------

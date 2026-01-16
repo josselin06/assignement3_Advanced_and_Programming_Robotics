@@ -1,0 +1,6 @@
+[MASTER] start with pid 7296
+[INIT] start with pid 7297
+[B] start with pid 7299
+[D] start with pid 7300
+[I] start with pid 7301
+[S] start with pid 7302

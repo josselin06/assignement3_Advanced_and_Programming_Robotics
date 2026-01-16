@@ -1,0 +1,7 @@
+Parameters : 
+T=0.01 //Integration interval
+M=0.5 //Mass of the drone
+Rho=0.5 //viscous coefficient
+repF=3 //repulse force
+Fscale=0.2 //motor force scale
+max_force=5

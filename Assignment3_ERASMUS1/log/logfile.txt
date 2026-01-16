@@ -1,0 +1,27 @@
+[15:35:46.813] [INIT] [INFO] Program is starting with pid 7297
+[15:35:46.813] [INIT] [INFO] Open a file to store the PID
+[15:35:46.813] [INIT] [INFO] Start launching all the programs
+[15:35:46.813] [INIT] [INFO] Program B launched
+[15:35:46.814] [INIT] [INFO] Program D launched
+[15:35:46.814] [INIT] [INFO] Program I launched
+[15:35:46.815] [INIT] [INFO] Program S launched
+[15:35:46.815] [INIT] [INFO] Have launched all the programs
+[15:35:46.815] [D] [INFO] Program is starting with pid 7300
+[15:35:46.816] [S] [INFO] Program is starting with pid 7302
+[15:35:47.084] [I] [INFO] Program is starting with pid 7328
+[15:35:47.087] [B] [INFO] Program is starting with pid 7327
+[15:35:47.087] [D] [INFO] Start calculating the dynamic parameters
+[15:35:47.087] [S] [INFO] Waiting for a client
+[15:35:47.087] [I] [INFO] Start reading the keyboard
+[15:35:47.088] [B] [INFO] Start sharing the paramerts and printing the scene
+[15:36:04.450] [S] [INFO] Start speaking with the client
+[15:36:04.636] [S] [INFO] Start routine communication
+[15:37:06.704] [I] [INFO] Ask for the master process to finish the program
+[15:37:06.716] [INIT] [INFO] End of program, kill everyone
+[15:37:06.722] [I] [INFO] Finish cleanly
+[15:37:06.722] [B] [INFO] Finish cleanly
+[15:37:06.727] [D] [INFO] Finish cleanly
+[15:37:07.827] [S] [INFO] Tell the client to exit
+[15:37:08.739] [S] [ERROR] Don't read in the socket
+[15:37:08.743] [INIT] [INFO] Every programs are finished
+[15:37:08.743] [INIT] [INFO] Finish cleanly

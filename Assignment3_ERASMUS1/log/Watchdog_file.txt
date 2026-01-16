@@ -1,0 +1,112 @@
+[16:34:11.722] Watchdog is starting to receive the messages
+[16:34:12.198] [B] ----ALERTE---- Program silent
+[16:34:12.198] [D] Sleep
+[16:34:12.198] [I] ----ALERTE---- Program silent
+[16:34:12.198] [O] Sleep
+[16:34:12.198] [T] Sleep
+[16:34:12.198] [I] Read the key pressed
+[16:34:12.198] [B] Create the select()
+[16:34:12.398] [D] Sleep
+[16:34:12.398] [O] Sleep
+[16:34:12.398] [T] Sleep
+[16:34:12.398] [I] Read the key pressed
+[16:34:12.399] [B] Create the select()
+[16:34:12.598] [D] Sleep
+[16:34:12.598] [O] Sleep
+[16:34:12.598] [T] Sleep
+[16:34:12.598] [I] Read the key pressed
+[16:34:12.599] [B] Create the select()
+[16:34:12.798] [D] Sleep
+[16:34:12.798] [O] Sleep
+[16:34:12.798] [T] Sleep
+[16:34:12.798] [I] Read the key pressed
+[16:34:12.799] [B] Create the select()
+[16:34:12.998] [D] Sleep
+[16:34:12.998] [O] Sleep
+[16:34:12.998] [T] Sleep
+[16:34:12.999] [I] Read the key pressed
+[16:34:12.999] [B] Create the select()
+[16:34:13.198] [D] Sleep
+[16:34:13.198] [O] Sleep
+[16:34:13.198] [T] Sleep
+[16:34:13.199] [I] Read the key pressed
+[16:34:13.199] [B] Create the select()
+[16:34:13.398] [D] Sleep
+[16:34:13.399] [O] Sleep
+[16:34:13.399] [T] Sleep
+[16:34:13.399] [I] Read the key pressed
+[16:34:13.399] [B] Create the select()
+[16:34:13.599] [D] Sleep
+[16:34:13.599] [O] Sleep
+[16:34:13.599] [T] Sleep
+[16:34:13.599] [I] Read the key pressed
+[16:34:13.599] [B] Create the select()
+[16:34:13.799] [D] Sleep
+[16:34:13.799] [O] Sleep
+[16:34:13.799] [T] Sleep
+[16:34:13.799] [I] Read the key pressed
+[16:34:13.799] [B] Create the select()
+[16:34:13.999] [D] Sleep
+[16:34:13.999] [O] Sleep
+[16:34:13.999] [T] Sleep
+[16:34:13.999] [I] Read the key pressed
+[16:34:13.999] [B] Create the select()
+[16:34:14.199] [D] Sleep
+[16:34:14.199] [O] Sleep
+[16:34:14.199] [T] Sleep
+[16:34:14.199] [B] Create the select()
+[16:34:14.199] [I] Read the key pressed
+[16:34:14.399] [D] Sleep
+[16:34:14.399] [O] Sleep
+[16:34:14.399] [T] Sleep
+[16:34:14.399] [I] Read the key pressed
+[16:34:14.500] [B] Create the select()
+[16:34:14.599] [D] Sleep
+[16:34:14.599] [O] Sleep
+[16:34:14.599] [T] Sleep
+[16:34:14.599] [B] Create the select()
+[16:34:14.600] [I] Read the key pressed
+[16:34:14.799] [D] Sleep
+[16:34:14.799] [O] Sleep
+[16:34:14.799] [T] Sleep
+[16:34:14.800] [B] Create the select()
+[16:34:14.800] [I] Read the key pressed
+[16:34:14.999] [D] Sleep
+[16:34:14.999] [O] Sleep
+[16:34:14.999] [T] Sleep
+[16:34:15.000] [B] Create the select()
+[16:34:15.100] [I] Read the key pressed
+[16:34:15.200] [D] Sleep
+[16:34:15.200] [O] Sleep
+[16:34:15.200] [T] Sleep
+[16:34:15.200] [B] Create the select()
+[16:34:15.200] [I] Read the key pressed
+[16:34:15.400] [D] Sleep
+[16:34:15.400] [O] Sleep
+[16:34:15.400] [T] Sleep
+[16:34:15.400] [B] Create the select()
+[16:34:15.400] [I] Read the key pressed
+[16:34:15.600] [D] Sleep
+[16:34:15.600] [O] Sleep
+[16:34:15.600] [T] Sleep
+[16:34:15.600] [B] Create the select()
+[16:34:15.600] [I] Read the key pressed
+[16:34:15.800] [B] Create the select()
+[16:34:15.800] [D] Sleep
+[16:34:15.800] [O] Sleep
+[16:34:15.800] [T] Sleep
+[16:34:15.800] [I] Read the key pressed
+[16:34:16.000] [B] Create the select()
+[16:34:16.000] [D] Sleep
+[16:34:16.000] [O] Sleep
+[16:34:16.000] [T] Sleep
+[16:34:16.000] [I] Read the key pressed
+[16:34:16.200] [B] Create the select()
+[16:34:16.200] [D] Sleep
+[16:34:16.200] [O] Sleep
+[16:34:16.200] [T] Sleep
+[16:34:16.200] [I] Read the key pressed
+[16:34:16.400] [B] Create the select()
+[16:34:16.400] [D] Sleep
+[16:34:16.400] [O] Sleep
+[16:34:16.400] [T] Sleep
